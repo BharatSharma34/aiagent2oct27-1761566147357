@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div style={{padding:"2rem"}}>
       <h1>AiAgent2Oct27</h1>
-      <p>app agent test</p>
+      <p>app agent test with changes</p>
       <pre>{JSON.stringify(data,null,2)}</pre>
     </div>
   );
